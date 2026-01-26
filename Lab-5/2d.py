@@ -5,7 +5,7 @@ import math
 pygame.init()
 WIDTH , HEIGHT = 800,800
 screen = pygame.display.set_mode((WIDTH,HEIGHT))
-pygame.display.set_caption(title="BLA Algortihm")
+pygame.display.set_caption(title="2D Transformation")
 
 WHITE = (255,255,255)
 BLACK = (0,0,0)
